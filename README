@@ -1,0 +1,10 @@
+This plugin outputs cForms entries on pages or posts.
+
+cForms is an awesome WordPress form plugin.
+(http://www.deliciousdays.com/cforms-plugin/)
+
+Copy cformout.php to your wp-content/plugins/ folder, and know what the ID number of the form  you want to display.
+
+In your post / page use the shortcode '[printForm id=1]' with the desired ID.
+
+That is all!
